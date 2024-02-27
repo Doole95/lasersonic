@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture"			"vgui/weapons/sonic/lasersonic_dal"
+	"$vertexcolor" 			1
+	"$vertexalpha" 			1
+	"$nolod" 				1
+}

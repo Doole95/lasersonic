@@ -1,0 +1,24 @@
+"VertexLitGeneric"
+{
+    "$basetexture" "\models\dalliias\lasersonic\lasersonic_diffuse"
+    "$surfaceprop" "Metal"
+    "$bumpmap" "\models\dalliias\lasersonic\lasersonic_normal"
+    "$envmap" "\models\dalliias\lasersonic\Rough_ENV"
+
+    "$envmaptint" "[0.5 0.5 0.5]"
+    "$nodecal" "0"
+    "$additive" "0"
+    "$nocull" "1"
+    "$translucent" "0"
+    "$rimlight" "1"
+	"$rimlightexponent" "2"
+	"$rimlightboost" "1"	
+
+    $phong 1
+    $phongexponent          5
+    $
+    $phongboost             1
+    $phongfresnelranges     "[1 0.5 1]"
+
+
+}
